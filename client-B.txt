@@ -1,0 +1,13 @@
+client-B.txt 
+
+Find the Spot 
+
+Develop a mapping (walking) application to find a specific set location in a large warehouse store for a customer. The customer can move north, south, east, or west
+
+1) Find a specific location in a large warehouse store
+2) Define customer location
+3) Define targe location
+4) Define directions 
+[ (o,1), (0,-1), (1,0), (-1,0) ] East, West, South, North 
+5) set customer locations
+6) set targe location
