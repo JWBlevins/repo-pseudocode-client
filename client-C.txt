@@ -1,0 +1,5 @@
+Client Task C
+
+1) Set a digital scan gun to read and scans the product packing label by 2
+2) while product packing count <= 50
+3) give the commands to print product packing count by 2.
