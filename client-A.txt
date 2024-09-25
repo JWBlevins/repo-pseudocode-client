@@ -1,0 +1,30 @@
+client-A.txt 
+ 
+
+Guessing Game 
+ 
+steps 1
+
+step set the random numbers (1 to 10 )
+step set chances for players to 3
+step set players for the guessing game 
+
+step 2 guessing game start
+
+write welcome to guessing game.
+ computer chooses a random number between 1 and 10, and the players has 3 chances to guess.
+
+1st player
+
+1st guessing Incorrect   (F) wrong guess (try again) logo display check mark X
+2nd guessing Incorrectly (F) wrong guess (try again) logo display check mark X
+3rd guessing Correct     (T) logo display check mark ?
+ maxima guessing 
+
+
+2nd player
+1st guessing Incorrect (F) wrong guess (try again) logo display check mark X
+2st guessing Correct   (T) logo display check mark ? 
+3st guessing Incorrect (F) wrong guess (try again) logo display check mark X
+maxima guessing 
+   
